@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: a9c29ae449ada7a4fbb5026e2b3aedb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6281799961241241457
+    second: FlyingBird Sprite_0
+  - first:
+      213: -1427027584607997674
+    second: FlyingBird Sprite_1
+  - first:
+      213: 337389787087943515
+    second: FlyingBird Sprite_2
+  - first:
+      213: 4406688772089058783
+    second: FlyingBird Sprite_3
+  - first:
+      213: -8059367098047956523
+    second: FlyingBird Sprite_4
+  - first:
+      213: -3011819669192032194
+    second: FlyingBird Sprite_5
+  - first:
+      213: 5472307650575472475
+    second: FlyingBird Sprite_6
+  - first:
+      213: 3888891457977540367
+    second: FlyingBird Sprite_7
+  - first:
+      213: 766535379231726109
+    second: FlyingBird Sprite_8
+  - first:
+      213: 3616206685018524138
+    second: FlyingBird Sprite_9
+  - first:
+      213: 8238745041852104804
+    second: FlyingBird Sprite_10
+  - first:
+      213: -2791800629413620698
+    second: FlyingBird Sprite_11
+  - first:
+      213: -557040410212829938
+    second: FlyingBird Sprite_12
+  - first:
+      213: 8637651838749738766
+    second: FlyingBird Sprite_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingBird Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 361
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c8d748cf6d2750800000000000000
+      internalID: 6281799961241241457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 362
+        width: 148
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b1c6f8fd223ce0800000000000000
+      internalID: -1427027584607997674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 363
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b83a4936aea400800000000000000
+      internalID: 337389787087943515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 366
+        width: 173
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd512103714b72d30800000000000000
+      internalID: 4406688772089058783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 369
+        width: 184
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9716e1350672090800000000000000
+      internalID: -8059367098047956523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 170
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30464ad7fdd336d0800000000000000
+      internalID: -3011819669192032194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 165
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57143e80da81fb40800000000000000
+      internalID: 5472307650575472475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 169
+        width: 148
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5dc24d2e18f530800000000000000
+      internalID: 3888891457977540367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 179
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a50eabdd743aa00800000000000000
+      internalID: 766535379231726109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 176
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae90cee02d85f2230800000000000000
+      internalID: 3616206685018524138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600b9ef6f6e55270800000000000000
+      internalID: 8238745041852104804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 148
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d6108e188149d0800000000000000
+      internalID: -2791800629413620698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 22
+        width: 170
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05f9bfb2bef448f0800000000000000
+      internalID: -557040410212829938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingBird Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 21
+        width: 182
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078d26459a1fd770800000000000000
+      internalID: 8637651838749738766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlyingBird Sprite_0: 6281799961241241457
+      FlyingBird Sprite_1: -1427027584607997674
+      FlyingBird Sprite_10: 8238745041852104804
+      FlyingBird Sprite_11: -2791800629413620698
+      FlyingBird Sprite_12: -557040410212829938
+      FlyingBird Sprite_13: 8637651838749738766
+      FlyingBird Sprite_2: 337389787087943515
+      FlyingBird Sprite_3: 4406688772089058783
+      FlyingBird Sprite_4: -8059367098047956523
+      FlyingBird Sprite_5: -3011819669192032194
+      FlyingBird Sprite_6: 5472307650575472475
+      FlyingBird Sprite_7: 3888891457977540367
+      FlyingBird Sprite_8: 766535379231726109
+      FlyingBird Sprite_9: 3616206685018524138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
