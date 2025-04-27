@@ -197,7 +197,7 @@ public class CharacterController2D : MonoBehaviour {
 
 	// do what needs to be done to unfreeze the player
 	void UnFreezeMotion() {
-		if (_rigidbody.bodyType != RigidbodyType2D.Kinematic) {
+		if (_rigidbody.bodyType == RigidbodyType2D.Kinematic) {
 			playerCanMove = true;  // Enable player movement
 			_rigidbody.bodyType = RigidbodyType2D.Dynamic;  // Set to Dynamic to allow physics
 			_rigidbody.gravityScale = 1;  // Reset gravity scale (optional)

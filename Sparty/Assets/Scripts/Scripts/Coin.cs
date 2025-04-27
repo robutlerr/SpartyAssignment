@@ -13,7 +13,7 @@ public class Coin : MonoBehaviour {
 	{
 		if ((other.tag == "Player" ) && (!taken) && (other.gameObject.GetComponent<CharacterController2D>().playerCanMove))
 		{
-			Debug.Log("Coin Collected!");
+			//Debug.Log("Coin Collected!");
 			// mark as taken so doesn't get taken multiple times
 			taken=true;
 

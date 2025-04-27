@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dirt_Lava_8_0: -9181694782394575987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
